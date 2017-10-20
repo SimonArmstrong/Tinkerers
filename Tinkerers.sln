@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F673FC85-F290-A92E-7DE6-DC4D767BE519}") = "Tinkerers", "Assembly-CSharp.csproj", "{B88EC63F-40A9-FCED-D53B-C1E9BA32CBA3}"
+EndProject
+Project("{F673FC85-F290-A92E-7DE6-DC4D767BE519}") = "Tinkerers", "Assembly-CSharp-Editor.csproj", "{7DFAB4AB-121F-E2D6-4CBF-07C10D7294F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88EC63F-40A9-FCED-D53B-C1E9BA32CBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88EC63F-40A9-FCED-D53B-C1E9BA32CBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88EC63F-40A9-FCED-D53B-C1E9BA32CBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88EC63F-40A9-FCED-D53B-C1E9BA32CBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFAB4AB-121F-E2D6-4CBF-07C10D7294F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFAB4AB-121F-E2D6-4CBF-07C10D7294F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFAB4AB-121F-E2D6-4CBF-07C10D7294F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFAB4AB-121F-E2D6-4CBF-07C10D7294F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
